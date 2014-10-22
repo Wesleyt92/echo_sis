@@ -1,0 +1,13 @@
+    {
+    "name": "Nome do projeto",
+    "description": "Breve descrição do que a aplicação se propoe a fazer",
+    "authors": [
+    {
+    "name": "wesley",
+    "email": "wes-santos@gmail.com"
+    }
+    ],
+    "require": {
+    "php": ">=5.2.8"
+    }
+    }
